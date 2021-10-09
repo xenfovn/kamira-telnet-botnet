@@ -1,1 +1,1 @@
-192.168.1.1:root:root:NS
+137.184.153.81:root:Cuongvps.com:NS
